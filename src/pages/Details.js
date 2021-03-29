@@ -13,7 +13,7 @@ function Details({ match }) {
   return (
     <div className="container">
       <h1 className="m-5 border-bottom bg-transparent text-center">
-        country's infromation
+        country's information
       </h1>
       <div>
         {isPending && <Loading />}

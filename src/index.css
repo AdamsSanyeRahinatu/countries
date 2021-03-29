@@ -17,3 +17,15 @@ body {
   align-items: center;
   justify-content: center;
 }
+.adams{
+  background-color: antiquewhite;
+  width: 350px;
+  color: black;
+}
+.adams2{
+  /* className="bg-secondary d-flex flex-column justify-content-center align-items-center" */
+background-color: blanchedalmond;
+display: flex;
+justify-content: center;
+align-items: center;
+}

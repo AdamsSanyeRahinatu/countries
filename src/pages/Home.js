@@ -7,7 +7,8 @@ function Home() {
       style={{ height: "100vh" }}
     >
       <div className="container text-white">
-        <h1 className="mb-5 text-warning">Know Your Countries</h1>
+        <h2>ADAMS RAHINATU</h2>
+        <h1 className="mb-5 text-warning">Know YourCountries </h1>
         <h2>
           This site allows you to have access to <br></br>all the countries
           around the Globe
